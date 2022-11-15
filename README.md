@@ -1,4 +1,4 @@
-# code-alticci Project
+# code-alticci project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
